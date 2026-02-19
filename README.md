@@ -38,5 +38,5 @@ Scripts for automating the archival of retro hardware listings using VBA.
 ## 💬 Let's Connect
 I'm always looking to discuss retro-tech, 2000s app design, or OCaml optimization techniques.
 
-* **GitHub**: @Gemini_Collector
+* **GitHub**: @EiJackGH
 * **Gist Archive**: [My Code Gists](https://gist.github.com/EiJackGH)
