@@ -41,12 +41,18 @@ I'm always looking to discuss retro-tech, 2000s app design, or OCaml optimizatio
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 ### 🖥️ Languages
 * **OCaml**: Native compilation for high-performance emulators.
 * **Delphi (VCL)**: Recreating 2000s-style Windows applications.
-* **JavaScript**: Building interactive web components and automation scripts.
+* **JavaScript & HTML5**: Building interactive web components and automation scripts.
 * **VBA**: Data archiving and Excel automation.
+* **PHP**: Server-side scripting for web backend and API development.
+* **Python**: Automation scripting, data parsing, and backend utilities.
 
 ---
 ### ⚙️ Tools & Platforms
@@ -55,3 +61,8 @@ I'm always looking to discuss retro-tech, 2000s app design, or OCaml optimizatio
 * **Make**: Manual build automation (no Dune).
 * **Sass**: Advanced CSS preprocessor for styling web interfaces.
 * **Codespaces**: Portable development environments.
+
+---
+### 🗄️ Databases & Storage
+* **MongoDB**: NoSQL document storage for flexible data archiving.
+* **FilesSnapshot.xml**: Legacy XML-based state tracking.
