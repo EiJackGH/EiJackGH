@@ -45,11 +45,12 @@ I'm always looking to discuss retro-tech, 2000s app design, or OCaml optimizatio
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
 ### 🖥️ Languages
 * **OCaml**: Native compilation for high-performance emulators.
 * **Delphi (VCL)**: Recreating 2000s-style Windows applications.
-* **JavaScript & HTML5**: Building interactive web components and automation scripts.
+* **JavaScript & HTML5, CSS**: Building interactive web components and automation scripts.
 * **VBA**: Data archiving and Excel automation.
 * **PHP**: Server-side scripting for web backend and API development.
 * **Python**: Automation scripting, data parsing, and backend utilities.
