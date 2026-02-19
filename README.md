@@ -27,14 +27,6 @@ Recreating the classic **Windows Media Player 6.4** UI using Delphi VCL.
 Scripts for automating the archival of retro hardware listings using VBA.
 - [Snapshot](https://gist.github.com/EiJackGH/FilesSnapshot.xml)
 
----
-
-## 📊 GitHub Stats
-
-
-
----
-
 ## 💬 Let's Connect
 I'm always looking to discuss retro-tech, 2000s app design, or OCaml optimization techniques.
 
