@@ -40,6 +40,7 @@ I'm always looking to discuss retro-tech, 2000s app design, or OCaml optimizatio
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ---
 ### 🖥️ Languages
 * **OCaml**: Native compilation for high-performance emulators.
@@ -52,4 +53,5 @@ I'm always looking to discuss retro-tech, 2000s app design, or OCaml optimizatio
 * **Docker**: Containerizing legacy build environments.
 * **GitLab**: CI/CD pipelines and repository mirroring.
 * **Make**: Manual build automation (no Dune).
+* **Sass**: Advanced CSS preprocessor for styling web interfaces.
 * **Codespaces**: Portable development environments.
