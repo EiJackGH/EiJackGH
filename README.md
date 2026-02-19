@@ -32,3 +32,9 @@ I'm always looking to discuss retro-tech, 2000s app design, or OCaml optimizatio
 
 * **GitHub**: @EiJackGH
 * **Gist Archive**: [My Code Gists](https://gist.github.com/EiJackGH)
+
+---
+### 🏷️ Skill Badges
+![OCaml](https://img.shields.io/badge/OCaml-C25E00?style=for-the-badge&logo=ocaml&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-CC0000?style=for-the-badge&logo=embarcadero&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
