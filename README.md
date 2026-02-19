@@ -56,6 +56,9 @@ I'm always looking to discuss retro-tech, 2000s app design, or OCaml optimizatio
 * **PHP**: Server-side scripting for web backend and API development.
 * **Python**: Automation scripting, data parsing, and backend utilities.
 
+<img width="440" height="45" alt="image" src="https://github.com/user-attachments/assets/42bbdbb7-09ec-4ce9-ba18-92ff664410de" />
+
+
 ---
 ### ⚙️ Tools & Platforms
 * **Docker**: Containerizing legacy build environments.
