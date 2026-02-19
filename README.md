@@ -54,11 +54,8 @@ I'm always looking to discuss retro-tech, 2000s app design, or OCaml optimizatio
 * **JavaScript & HTML5, CSS**: Building interactive web components and automation scripts.
 * **VBA**: Data archiving and Excel automation.
 * **PHP**: Server-side scripting for web backend and API development.
-* **Python**: Automation scripting, data parsing, and backend utilities.
-
-<img width="440" height="45" alt="image" src="https://github.com/user-attachments/assets/42bbdbb7-09ec-4ce9-ba18-92ff664410de" />
-
-
+* **Python**: Automation scripting, data parsing, and backend utilities
+  
 ---
 ### ⚙️ Tools & Platforms
 * **Docker**: Containerizing legacy build environments.
