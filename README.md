@@ -38,3 +38,10 @@ I'm always looking to discuss retro-tech, 2000s app design, or OCaml optimizatio
 ![OCaml](https://img.shields.io/badge/OCaml-C25E00?style=for-the-badge&logo=ocaml&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-CC0000?style=for-the-badge&logo=embarcadero&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
+### 🖥️ Languages
+* **OCaml**: Native compilation for high-performance emulators.
+* **Delphi (VCL)**: Recreating 2000s-style Windows applications.
+* **JavaScript**: Building interactive web components and automation scripts.
+* **VBA**: Data archiving and Excel automation.
