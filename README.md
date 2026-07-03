@@ -23,6 +23,12 @@ A functional Game Boy emulator written in **OCaml**.
 Recreating the classic **Windows Media Player 6.4** UI using Delphi VCL.
 - *Focus*: 3D Beveled edges, `clBtnFace` aesthetics, no modern API hacks.
 
+
+### GitHub Stats
+<a href="https://github.com/EiJackGH?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=EiJackGH&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="EiJackGH's github-readme-stats"/></a>
+
+
+
 ### 💾 eBay 2002 Archive
 Scripts for automating the archival of retro hardware listings using VBA.
 - [Snapshot](https://gist.github.com/EiJackGH/8144c9797c39dadee6a8b9b9b81b0338)
