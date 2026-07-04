@@ -2,22 +2,6 @@
 
 Welcome to my corner of GitHub! I am a passionate developer focused on **retro-computing**, **functional programming**, and **systems emulation**.
 
-<p align="center">  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=EiJackGH&label=Profile%20Views&color=bf91f3&style=flat" alt="Profile Views"/>    
-  
-  <!-- GitHub Followers Badge -->
-  <img src="https://img.shields.io/github/followers/EiJackGH?label=Followers&style=flat&color=70a5fd&labelColor=0d1117&logo=githubsponsors&logoColor=white" alt="Followers"/>
-  
-  <!-- GitHub Stars Badge -->
-  <img src="https://img.shields.io/github/stars/EiJackGH?label=Stars&style=flat&color=FFD700&labelColor=0d1117&logo=apache-spark&logoColor=white" alt="Stars"/>    
-  
-  <!-- Public Repositories Counter -->
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/EiJackGH&query=$.public_repos&label=Public%20Repos&style=flat&color=34a89d&labelColor=0d1117&logo=git&logoColor=white" alt="Public Repos"/>
-</p>
-
-
-
 
 ## 🛠️ Tech Stack & Focus Areas
 
@@ -81,6 +65,21 @@ I'm always looking to discuss retro-tech, 2000s app design, or OCaml optimizatio
   </a>
 </p>
 </details>
+
+
+<p align="center">  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=EiJackGH&label=Profile%20Views&color=bf91f3&style=flat" alt="Profile Views"/>    
+  
+  <!-- GitHub Followers Badge -->
+  <img src="https://img.shields.io/github/followers/EiJackGH?label=Followers&style=flat&color=70a5fd&labelColor=0d1117&logo=githubsponsors&logoColor=white" alt="Followers"/>
+  
+  <!-- GitHub Stars Badge -->
+  <img src="https://img.shields.io/github/stars/EiJackGH?label=Stars&style=flat&color=FFD700&labelColor=0d1117&logo=apache-spark&logoColor=white" alt="Stars"/>    
+  
+  <!-- Public Repositories Counter -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/EiJackGH&query=$.public_repos&label=Public%20Repos&style=flat&color=34a89d&labelColor=0d1117&logo=git&logoColor=white" alt="Public Repos"/>
+</p>
 
 
 ---
