@@ -39,6 +39,34 @@ I'm always looking to discuss retro-tech, 2000s app design, or OCaml optimizatio
 * **GitHub**: @EiJackGH
 * **Gist Archive**: [My Code Gists](https://gist.github.com/EiJackGH)
 
+
+<details open>
+  <summary><h2>📈 GitHub Activity Graph</h2></summary>
+
+  <!-- Activity Graph --> 
+  <div align="center">
+    <a href="https://github.com/EiJackGH">
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=EiJackGH&bg_color=0d1117&color=34a89d&line=70a5fd&point=bf91f3&area=true&hide_border=true" 
+        alt="GitHub Activity Graph"
+      />
+    </a>
+  </div>
+</details>
+
+<details open>
+  <summary><h2>🏆 GitHub Trophies</h2></summary>
+  
+  <br>
+  
+<p align="center">
+  <a href="https://github.com/EiJackGH">
+    <img src="https://github-profile-repo.vercel.app/?username=EiJackGH&theme=aura&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+</p>
+</details>
+
+
 ---
 ### 🏷️ Skill Badges
 ![OCaml](https://img.shields.io/badge/OCaml-C25E00?style=for-the-badge&logo=ocaml&logoColor=white)
